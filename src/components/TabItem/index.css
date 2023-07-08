@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.tab-item {
+  border-bottom: 1px solid #dfe2e5;
+  font-family: 'Bree Serif';
+}
+.tab-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  color: #7b8794;
+  margin-right: 20px;
+}
+.active-tab-btn {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}

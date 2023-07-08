@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-item {
+  background-color: #ffffff;
+  border-radius: 10px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  align-self: center;
+}
+.app-item-image {
+  height: 80px;
+  width: 80px;
+}
+.app-heading {
+  font-family: 'Bree Serif';
+}
